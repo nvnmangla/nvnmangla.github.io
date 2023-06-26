@@ -110,7 +110,7 @@ const details = {
             "Built a test bench for testing and calibrating the system."]
     }
 }
-const orgs = ["Addverb", "Kick_Robotics", "Rezoom", "Airtel", "Analog Devices"]
+const orgs = ["Finamics Engineering", "Kick_Robotics", "Rezoom", "Airtel", "Analog Devices"]
 
 function insertOrgs() {
     let orgContainer = document.querySelector('.work-experience-list')
