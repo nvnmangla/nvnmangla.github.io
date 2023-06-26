@@ -54,61 +54,19 @@ const details = {
         "Auto G-Coding using Art-Cam (wood router), and Manual G-Coding (Spinning)",
         "Successfully Delivered 2 wood routers and 1 Spinning Machine"]
     },
-    "Kick_Robotics": {
-        "title": "Robotics Intern",
-        "organization": "Kick Robotics",
-        "duration": "January 2022 - June 2022",
-        "website": "https://kickrobotics.com/",
-        "name": "Kick Robotics LLC.",
-        "details": ["Designed and supported hardware and software for Watershed Aqua Bot, Warehouse Bot, Farm Bot",
-            "Implemented a cloud communication architecture for various robot",
-            "Developed the SLAM and perception capabilities of the mentioned robots",
-            "Architected software packages around ROS2(foxy) and microRos framework"]
-    },
-    "Rezoom": {
-        "title": "Graduate Student Researcher",
-        "organization": "Maryland Robotics Center",
-        "duration": "June 2021 - January 2022",
-        "website": "http://cdcl.umd.edu/",
-        "name": "ReZoom",
-        "details": ["REZOOM is an artificial intelligence (AI) logistics, operations, and management solution easily retrofitted to e-scooters and other micro mobility platforms to enable self-driving.",
-            "Developing hardware and software for autonomous electric scooters.",
-            "Architected and implemented a highly modular TCP based communication pipeline for varied data streams for IOT and Robotic applications.",
-            "Contributed extensively to the hardware prototyping for the autonomous scooter."]
-    },
-    "DIT": {
-        "title": "Student Software Developer",
-        "organization": "Department of Information Technology",
-        "duration": "October 2021 - January 2022",
-        "website": "https://www.analog.com/",
-        "details": ["Developed and shipped highly interactive web applications for Apple Music using Ember.js",
-            "Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs",
-            "Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to fdivl songs in the browser ",
-            "Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps "]
-    },
-    "Airtel": {
-        "title": "Network Automation Engineer",
-        "organization": "Airtel",
-        "duration": "June 2019 - December 2020",
-        "website": "https://www.airtel.in/",
-        "name": "Bharti Airtel Ltd.",
-        "details": ["Designed and developed a web-based inventory viewing utility (Ingress).",
-            "Developed an automatic end to end device connectivity verification for PAN India network.",
-            "Architected an auto-ticketing and auto-resolving script for day to day network issues.",
-            "Developed and deployed business process model notation (BPMN) workflows for automation of network operation tasks.",
-            "Designed a python-based web application for the centralization of scripts required for daily tasks."]
-    },
-    "Analog Devices": {
-        "title": "Project Intern",
-        "organization": "Analog Devices",
-        "duration": "June 2018 - September 2018",
-        "website": "https://www.analog.com/",
-        "name": "Analog Devices Inc.",
-        "details": ["Collaborated to develop and design a system to weigh vehicles in motion.",
-            "Developed SPI driver for communication between AD4003(SAR ADC) and AD4050, STM32L476(Micro-controllers).",
-            "Built a configurable python based signal generator to mimic input signals.",
-            "Built a test bench for testing and calibrating the system."]
+    
+    "Graduate Teaching Assistant":{
+        "title": "Graduate Teaching Assistant",
+        "organization": "Department of Aerospace",
+        "duration": "August 2022 - May 2023",
+        "name": "Department of Aerospace",
+        "website":"https://aero.umd.edu/",
+        "details": ["ENAE 380 - Flight Software Systems",
+        "ENAE 450 - Robot Programming",
+        "Assisted Students in Turtlebot Programming, Gazebo Visualization, Maze Solver using Turtlebot"]
     }
+    
+
 }
 const orgs = ["Finamics Engineering", "Kick_Robotics", "Rezoom", "Airtel", "Analog Devices"]
 
