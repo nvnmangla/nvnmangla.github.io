@@ -68,7 +68,7 @@ const details = {
     
 
 }
-const orgs = ["Finamics Engineering", "Kick_Robotics", "Rezoom", "Airtel", "Analog Devices"]
+const orgs = ["Finamics Engineering", "Graduate Teaching Assistant","Graduate Research Assistant"]
 
 function insertOrgs() {
     let orgContainer = document.querySelector('.work-experience-list')
@@ -112,7 +112,7 @@ toggleExperience(document.querySelector(".work-experience-list").childNodes[1])
 
 let projectObject = {};
 async function auto_update_projects() {
-    let response = await fetch(`https://api.github.com/users/viveksood97/repos`);
+    let response = await fetch(`https://api.github.com/users/nvnmangla/repos`);
     otherProjects = `<div class="other-projects">
                         <div class="other-projects-main-container">`
     
