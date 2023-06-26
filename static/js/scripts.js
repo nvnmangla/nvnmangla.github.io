@@ -45,9 +45,8 @@ const details = {
     "Finamics Engineering": {
         "title": "Co-Founder",
         "organization": "Finamics Engineering",
-        "duration": "July 2022 - Present",
-        "website": "https://addverb.com/",
-        "name": "Addverb Technologies USA",
+        "duration": "May 2019 - June 2020",
+        "name": "Finamics Engineering",
         "details": ["Designed Multi-axis CNC Wood Router and CNC Spinning from scratch, involved Modal Analysis reducing 20% of the weight and 10% increment in Natural Frequency",
         "Responsible for Material Selection, Design, Testing, and Simulation", 
         "Retrofit, CNC spinning machine involving Structural and Topology optimization",
