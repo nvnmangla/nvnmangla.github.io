@@ -42,16 +42,18 @@ function getWords(monthCount) {
 
 
 const details = {
-    "Addverb": {
-        "title": "Robotics Intern",
-        "organization": "Addverb",
+    "Finamics Engineering": {
+        "title": "Co-Founder",
+        "organization": "Finamics Engineering",
         "duration": "July 2022 - Present",
         "website": "https://addverb.com/",
         "name": "Addverb Technologies USA",
-        "details": ["Bringing up the Zippy and the Dynamo200 platforms for R&D and clients",
-            "Augmenting current laser based docking approach with visual markers for the Dynamo200 robot platform.",
-            "Implementing V-SLAM (ORB SLAM3) on the Zippy robot platform.",
-            "Building docker images for deployment on various robot platforms"]
+        "details": ["Designed Multi-axis CNC Wood Router and CNC Spinning from scratch, involved Modal Analysis reducing 20% of the weight and 10% increment in Natural Frequency",
+        "Responsible for Material Selection, Design, Testing, and Simulation", 
+        "Retrofit, CNC spinning machine involving Structural and Topology optimization",
+        "Achieved cost-saving of 45% during R&D",
+        "Auto G-Coding using Art-Cam (wood router), and Manual G-Coding (Spinning)",
+        "Successfully Delivered 2 wood routers and 1 Spinning Machine"]
     },
     "Kick_Robotics": {
         "title": "Robotics Intern",
