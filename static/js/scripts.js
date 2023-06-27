@@ -55,7 +55,7 @@ const details = {
         "Successfully Delivered 2 wood routers and 1 Spinning Machine"]
     },
     
-    "Graduate Teaching Assistant":{
+    "Deapartment of Aerospace - TA":{
         "title": "Graduate Teaching Assistant",
         "organization": "Department of Aerospace",
         "duration": "August 2022 - May 2023",
@@ -64,11 +64,30 @@ const details = {
         "details": ["ENAE 380 - Flight Software Systems",
         "ENAE 450 - Robot Programming",
         "Assisted Students in Turtlebot Programming, Gazebo Visualization, Maze Solver using Turtlebot"]
-    }
+    },
     
+    "Department of Aerospace - GA":{
+        "title": "Graduate Research Assistant",
+        "organization": "Department of Aerospace",
+        "duration": "July 2022 - December 2022",
+        "name": "Department of Aerospace",
+        "website":"https://aero.umd.edu/",
+        "details": ["Obstacle Detection for UAV (50 miles/hr), US Army Project.", 
+        "Implemented Pushbroom Stereo to compute Depth map"]
+    },
+
+    "Perception and Robotics Group - GA":{
+        "title": "Graduate Research Assistant",
+        "organization": "Perception and Robotics Group",
+        "duration": "June 2022 - July 2022",
+        "name": "Department of Aerospace",
+        "website":"https://prg.cs.umd.edu/",
+        "details": ["3D Reconstruction of Vicon recorded scene of various objects in ROSBAG",
+            "Computation of Depth map and Segmentation Map for Data Set using"]
+    },
 
 }
-const orgs = ["Finamics Engineering", "Graduate Teaching Assistant","Graduate Research Assistant"]
+const orgs = ["Finamics Engineering", "Deapartment of Aerospace - TA","Department of Aerospace - GA","Perception and Robotics Group - GA"]
 
 function insertOrgs() {
     let orgContainer = document.querySelector('.work-experience-list')
